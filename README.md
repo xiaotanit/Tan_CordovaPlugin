@@ -1,2 +1,2 @@
 # Tan_CordovaPlugin
-Cordova通过js调用OC原声代码
+Cordova通过js调用OC原生代码
